@@ -145,6 +145,7 @@ image:
 				Deep learning frameworks (<a href= "https://fagonzalezo.github.io/ml-2020-1/ML%20Deep%20Learning%20Frameworks.pdf">slides</a>)<br>
 				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
+				Neural Networks in PyTorch (<a href= "https://colab.research.google.com/drive/1v_YSZgowqwbv7lcLVOJAKVhZEOGR1rMV">Jupyter notebook</a>)<br>
 			</td>
 			<td>
 				<a href= "problems8.pdf">Practice problems 8</a>
