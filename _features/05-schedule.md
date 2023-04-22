@@ -132,7 +132,7 @@ image:
 		</tr>
 		<tr>
 			<td>
-				Apr 18
+				Apr 25
 			</td>
 			<td>
 			3.2 Deep learning <br>
@@ -152,7 +152,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 25</td>
+			<td>May 2</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
 				Asynchronous class 
@@ -167,7 +167,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 2</td>
+			<td>May 9</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
 				Asynchronous class 
@@ -181,7 +181,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 9</td>
+			<td>May 16</td>
 			<td>3.5 Transformer networks</td>
 			<td>
 				[<a href= "https://fagonzalezo.github.io/2021.deeplearning/intro.html">FunDL</a>] Sect 5.8<br>
@@ -196,7 +196,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 16</td>
+			<td>May 23</td>
 			<td>3.5 Deep generative models</td>
 			<td>Alexander Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
 			Deep generative models (<a href= "https://colab.research.google.com/drive/1g6EswE4dqjLD9P1CgJUPdFv_KNpOcg4J#scrollTo=uZXj0GvSdEsq">Jupyter notebook</a>)
@@ -205,7 +205,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 23</td>
+			<td>May 30</td>
 			<td>Final Exam</td>
 			<td>
 			</td>
@@ -213,7 +213,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 30</td>
+			<td>Jun 13</td>
 			<td>Final Project</td>
 			<td>
 			</td>
