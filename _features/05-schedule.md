@@ -156,47 +156,46 @@ image:
 			<td>3.3 Convolutional neural networks</td>
 			<td>
 				Asynchronous class 
-				(<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?t=30">video 1</a>, <a href= "https://drive.google.com/file/d/1Ekqk1AALMyIp1zt2Fh8mIwywz6T1BoPR/view?t=180">video 2</a>)<br>
+				(<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?t=30">video 1</a>, <a href= "https://drive.google.com/file/d/1Ekqk1AALMyIp1zt2Fh8mIwywz6T1BoPR/view?t=180">video 2</a>)(<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				CNN for image classification in Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
 				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
 				<!-- <a href= "assign4.pdf">Assignment 4</a><br> -->
-				<a href= "problems9.pdf">Practice problems 9</a>
+				<a href= "problems9.pdf">Practice problems 9</a><br>
+				<a href= "assign3.pdf">Assignment 3</a><br>
 			</td>
 		</tr>
 		<tr>
-			<td>May 9</td>
+			<td>May 16</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
 				Asynchronous class 
-				(<a href= "https://drive.google.com/file/d/1exxGq3X1mDHqhMMDiA0Q_mhqy0MvpE8U/view?t=184">video 1</a>, <a href= "https://drive.google.com/file/d/1hU7w32avFaa2BaYymSIwRoty9l5wbiB0/view?t=36">video 2</a>)<br>
+				(<a href= "https://drive.google.com/file/d/1exxGq3X1mDHqhMMDiA0Q_mhqy0MvpE8U/view?t=184">video 1</a>, <a href= "https://drive.google.com/file/d/1hU7w32avFaa2BaYymSIwRoty9l5wbiB0/view?t=36">video 2</a>)(<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				<a href= "https://colab.research.google.com/drive/1bs4_l2ZA-uJYdvrOZpWgb8ItDg1PRKft?usp=sharing">CNN for text classification handout</a> <br>
 				<a href= "https://colab.research.google.com/drive/1DbCuNqQ8wwDAqnWJxrEnyKey_zgWD-5p?usp=sharing">LSTM language model handout</a> <br>
 				[<a href= "https://fagonzalezo.github.io/2021.deeplearning/intro.html">FunDL</a>] Sect 5.0-5.3<br>
 			</td>
 			<td>
-				<a href= "https://www.dropbox.com/request/nrt1MBd076Y5Nl7sqzGQ">Project proposal</a>: 3 persons per group, maximum 2 pages describing problem, objectives and method (12/06/22)
-			</td>
-		</tr>
-		<tr>
-			<td>May 16</td>
-			<td>3.5 Transformer networks</td>
-			<td>
-				[<a href= "https://fagonzalezo.github.io/2021.deeplearning/intro.html">FunDL</a>] Sect 5.8<br>
-				<b>Videos:</b><br>
-				[FunDL] <a href= "https://youtu.be/p727fQCrw9c">15. Self-attention</a> <br>
-				[FunDL] <a href= "https://youtu.be/XTtcdIXskvY">16. Bert</a><br>
-			</td>
-			<td>
-			Assigment 3: (25/06/22)<br>
-			[FunDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2001%20-%20Multivariate%20time%20series%20prediction.html">LAB 5.1 - Time series prediction</a><br>
-			[FunDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2003%20-%20Sentiment%20Analysis%20using%20BERT.html">LAB 5.3 - Transformer - Bert</a><br>
+				<a href= "https://www.dropbox.com/request/V5v8z8tjzqAlPPKpjDdP">Project proposal</a>: 3 persons per group, maximum 2 pages describing problem, objectives and method (15/05/23)
 			</td>
 		</tr>
 		<tr>
 			<td>May 23</td>
+			<td>3.5 Transformer networks</td>
+			<td>
+				<b>Asynchronous class:</b><br>
+				[FunDL] 15. Self-attention (<a href= "https://youtu.be/p727fQCrw9c">video</a>)(<a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5.08%20-%20Self-Attention%20-%20Transformer%20-%20BERT.html">notebook</a>) <br>
+				[FunDL] 16. Bert (<a href= "https://youtu.be/XTtcdIXskvY">video</a>)(<a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5.08%20-%20Self-Attention%20-%20Transformer%20-%20BERT.html">notebook</a>) <br>
+			</td>
+			<td>
+			Practice problems 10<br>
+			[FunDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2003%20-%20Sentiment%20Analysis%20using%20BERT.html">LAB 5.3 - Transformer - Bert</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td>May 30</td>
 			<td>3.5 Deep generative models</td>
 			<td>Alexander Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
 			Deep generative models (<a href= "https://colab.research.google.com/drive/1g6EswE4dqjLD9P1CgJUPdFv_KNpOcg4J#scrollTo=uZXj0GvSdEsq">Jupyter notebook</a>)
@@ -205,7 +204,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 30</td>
+			<td>Jun 6</td>
 			<td>Final Exam</td>
 			<td>
 			</td>
@@ -218,7 +217,7 @@ image:
 			<td>
 			</td>
 			<td>
-				<a href= "project.pdf">Final project</a>
+				<!-- <a href= "project.pdf">Final project</a> -->
 			</td>
 		</tr>
 
