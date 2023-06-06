@@ -204,7 +204,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 6</td>
+			<td>Jun 13</td>
 			<td>Final Exam</td>
 			<td>
 			</td>
@@ -212,12 +212,12 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 13</td>
+			<td>Jun 16</td>
 			<td>Final Project</td>
 			<td>
 			</td>
 			<td>
-				<!-- <a href= "project.pdf">Final project</a> -->
+				<a href= "project.pdf">Final project</a>
 			</td>
 		</tr>
 
